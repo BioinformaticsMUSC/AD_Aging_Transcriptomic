@@ -1,7 +1,7 @@
 TITLE PAPER
 ==========================
 
-This repository contains analysis code for the RNA-seq expression project on AD mouse model at two different time points. This project was carried out by researchers at the [Wang Lab, MUSC](https://medicine.musc.edu/departments/neuroscience/research/cowan) and [Berto Lab, MUSC](https://bertolab.org/).
+This repository contains analysis code for the RNA-seq expression project on AD mouse model at two different time points. This project was carried out by researchers at the [Wang Lab, MUSC](https://medicine.musc.edu/departments/pathology/division-of-experimental-pathology/laboratories/wang) and [Berto Lab, MUSC](https://bertolab.org/).
 
 ## Cite this
 
